@@ -1,0 +1,15 @@
+{
+
+    "name": "bing-bong-bot",
+    
+    "version": "1.0.0",
+    
+    "description": "Bing Bong Bot",
+    
+    "main": "main.py",
+    
+    "author": "Albert Lewis",
+    
+    "dependencies": {}
+    
+    }
